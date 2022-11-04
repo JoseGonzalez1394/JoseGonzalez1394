@@ -1,7 +1,7 @@
 ### Hi there 🌯🎸
 
 # 💫 About Me:
-👋 Hi, I’m Jose Gonzalez, a Java Full Stack developer <br>👀 I’m interested in ... anime, star wars, marvel, DC, sports<br>🌱 I’m currently learning ... about REACT and moving onto Java<br>💻 I’m looking to collaborate on ... learning more about REACT and Java<br>📫 How to reach me ... JGman13@gmail.com<br><br>Thanks For Stopping By! <br>
+👋 Hi, I’m Jose Gonzalez, a Java Full Stack developer <br>👀 I’m interested in ... anime, star wars, marvel, DC, sports<br>🌱 I’m currently learning ... about REACT and moving onto Java<br>💻 I’m looking to collaborate on ... future video game and general software projects<br>📫 How to reach me ... JGman13@gmail.com<br><br>Thanks For Stopping By! <br>
 
 
 ## 🌐 Socials:
